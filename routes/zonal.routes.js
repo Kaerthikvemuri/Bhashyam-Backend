@@ -13,7 +13,7 @@ var Zonal = require("../models/zonal.model");
 const router = require("./branch.routes");
 
 var mcurl =
-  "mongodb+srv://jvdimvp:Pradeep903@cluster0.d2cwd.mongodb.net/Bhashyam?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://vemurikarthik26:Karthik2003@projectno.tc12x.mongodb.net/karthik";
 
 mongoose
   .connect(mcurl)
